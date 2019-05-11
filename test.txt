@@ -7,3 +7,5 @@
 
 这是本地修改 git fetch 演示 中的 B情景
 这里是 git fetch 演示 中的 B情景
+
+这里测试 git fetch 演示 中的 C情景
