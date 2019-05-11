@@ -1,6 +1,8 @@
 这是一个test文件
 这是 demo 分支添加的内容
 
+加内容了
+
 这是 GZWen newdemo 分支上添加的内容
 
 这里是 git fetch 演示 中的 A情景
@@ -17,3 +19,5 @@
 这里测试 git pull 演示中的 B情景
 
 我只在本地添加 git pull 演示中的 C情景
+
+好的   加加
