@@ -11,3 +11,5 @@
 这里测试 git fetch 演示 中的 C情景
 
 这里测试 git pull 演示中的 A情景
+
+这里测试 git pull 演示中的 B情景
