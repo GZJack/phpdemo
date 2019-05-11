@@ -4,3 +4,5 @@
 这是 GZWen newdemo 分支上添加的内容
 
 这里是 git fetch 演示 中的 A情景
+
+这里是 git fetch 演示 中的 B情景
